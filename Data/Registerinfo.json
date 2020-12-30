@@ -1,0 +1,23 @@
+{
+	"Title": "Mrs.",
+	"Firstname" : "Nilmie",
+	"Lastname" : "Gamhewa",
+	"Email" : "nilmie@mihcm.com",
+	"Password" : "123456",
+	"DateofBirthDay" : "21  ",
+	"DateofBirthMonth" : "January ",
+	"DateofBirthYear" : "1988  ",
+	"Company" : "MiHCM",
+	"Address" : " Havelock Road",
+	"Address2" : "Colombo 06",
+	"City" : "Colombo"
+	"State" :"Alabama",
+	"ZipCode" : "10230",
+	"Country" : "United States",
+	"Additionalinfo" : "AutomationAssignment",
+	"Homephone" : "001122894785",
+	"Mobilephone" : "0772273515"
+	"Assignaddress" : "nilmie@mihcm.com"
+
+}
+
